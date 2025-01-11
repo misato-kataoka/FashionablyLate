@@ -1,0 +1,20 @@
+.header {
+    position: center;
+    border-bottom: 1px solid #e0dfde;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 20px;
+    max-width: 1230px;
+    height: 60px;
+}
+
+.header__logo {
+    color: #8b7969;
+    font-family: Rival Regular;
+    font-size: 36px;
+    display: inline-block;
+    align-items: center;
+    text-decoration: none;
+}
