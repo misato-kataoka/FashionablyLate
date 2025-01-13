@@ -17,7 +17,7 @@
 ## 使用技術  
 -PHP 8.0  
 -Laravel (v8.6.12)  
--MySQL 8.4  
+-MySQL 8.0.26  
 
 
 ## URL  
